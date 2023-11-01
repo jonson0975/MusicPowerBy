@@ -80,5 +80,8 @@
   <ItemGroup>
     <Content Include="PowerBI\HTMLPage1.html" />
   </ItemGroup>
+  <ItemGroup>
+    <Folder Include="db\" />
+  </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>
